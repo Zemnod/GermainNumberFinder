@@ -1,7 +1,7 @@
 print('Welcome to my Germain Prime Finder')
 print('A Germain Prime is a Prime number whose value doubled plus one is still a Prime Number')
 print('This Program Finds all Germain Primes between 2 Values. Type in a Starting Value then an Ending Value')
-
+print('test for github')
 ending = 0
 
 while ending != -1:
