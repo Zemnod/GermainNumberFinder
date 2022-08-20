@@ -13,7 +13,7 @@ while ending != -1:
     y = int(input('Input Y Value: '))
 
     i = x
-    j = 1adsfasdfasdfdasdfafdsaf
+    j = 1
     k = 1
     count = 0
     if i<=1:
